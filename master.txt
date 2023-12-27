@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 creating file for the master branch
+=======
+macking changes to the file from the private branch
+
+>>>>>>> private
